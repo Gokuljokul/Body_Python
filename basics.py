@@ -1,4 +1,5 @@
 x =int(input())
+
 y1 = x % 1
 x2 = x % 10
 y2 = int(x2 - y1)
