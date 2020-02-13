@@ -13,7 +13,7 @@ ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required=True,
                 help="path to the input image")
 ap.add_argument("-w", "--width", type=float, required=True,
-                help='width of the left-most object in the image (in inches)')
+                help='width of the left-most object in the image (in feet)')
 args = vars(ap.parse_args())
 image = cv2.imread(args["image"])
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -59,10 +59,10 @@ for c in cnts:
         pixelsPerMetric = dB / args["width"]
     dimA = dA / pixelsPerMetric
     dimB = dB / pixelsPerMetric
-    cv2.putText(orig, "{:.1f}mm".format(dimA),
+    cv2.putText(orig, "H{:.1f}ft".format(dimB),
                 (int(tltrX - 15), int(tltrY - 10)), cv2.FONT_HERSHEY_SIMPLEX,
                 0.65, (255, 255, 255), 2)
-    cv2.putText(orig, "{:.1f}mm".format(dimB),
+    cv2.putText(orig, "W{:.1f}in".format(dimA),
                 (int(trbrX + 10), int(trbrY)), cv2.FONT_HERSHEY_SIMPLEX,
                 0.65, (255, 255, 255), 2)
     cv2.imshow("Image", orig)

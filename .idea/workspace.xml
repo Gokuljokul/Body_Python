@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22fb5ba-c2ea-46c7-8584-3189535cfdc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Gokul1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gokul2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Gokul.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/human4.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/body.py" beforeDir="false" afterPath="$PROJECT_DIR$/body.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,65 +36,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XbHdV1wpIzORtOEXqqV82MTHR7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Gokul\Pycharm Project\Body\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Gokul\Pycharm Project\Body\test" />
+      <recent name="E:\Gokul\Pycharm Project\Body" />
       <recent name="C:\Users\RenoTEQ\PycharmProjects\Body\images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.basic">
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Body" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="basics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Body" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ed">
     <configuration name="body" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Body" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="object_size" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="crop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Body" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/object_size.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Body" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +111,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/pywin-0.3.1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/pywin-0.3.1/setup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/ed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edges (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Body" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edges.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edges" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Body" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Gokul\Pycharm Project\Body\edges.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.basic" />
-        <item itemvalue="Python.basics" />
+        <item itemvalue="Python.ed" />
+        <item itemvalue="Python.edges (1)" />
         <item itemvalue="Python.body" />
-        <item itemvalue="Python.setup" />
-        <item itemvalue="Python.object_size" />
+        <item itemvalue="Python.crop" />
+        <item itemvalue="Python.edges" />
       </list>
     </recent_temporary>
   </component>
@@ -172,62 +194,71 @@
       <option name="project" value="LOCAL" />
       <updated>1581499696597</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3nd">
+      <created>1581512612161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581512612161</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="2nd" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd" />
+    <MESSAGE value="3nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="3nd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="16" key="CommitChangelistDialog2" timestamp="1581499694830">
+    <state x="374" y="16" key="CommitChangelistDialog2" timestamp="1581512609521">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="374" y="16" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1581499694830" />
+    <state x="374" y="16" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1581512609521" />
     <state x="500" y="171" key="FileChooserDialogImpl" timestamp="1581310097643">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="171" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1581310097643" />
-    <state width="1419" height="285" key="GridCell.Tab.0.bottom" timestamp="1581510051983">
+    <state width="1419" height="292" key="GridCell.Tab.0.bottom" timestamp="1581589416354">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581510051983" />
-    <state width="1419" height="285" key="GridCell.Tab.0.center" timestamp="1581510051983">
+    <state width="1419" height="292" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581589416354" />
+    <state width="1419" height="292" key="GridCell.Tab.0.center" timestamp="1581589416354">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1581510051983" />
-    <state width="1419" height="285" key="GridCell.Tab.0.left" timestamp="1581510051983">
+    <state width="1419" height="292" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1581589416354" />
+    <state width="1419" height="292" key="GridCell.Tab.0.left" timestamp="1581589416354">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1581510051983" />
-    <state width="1419" height="285" key="GridCell.Tab.0.right" timestamp="1581510051983">
+    <state width="1419" height="292" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1581589416354" />
+    <state width="1419" height="292" key="GridCell.Tab.0.right" timestamp="1581589416354">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1581510051983" />
-    <state width="1419" height="278" key="GridCell.Tab.1.bottom" timestamp="1581502077800">
+    <state width="1419" height="292" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1581589416354" />
+    <state width="1419" height="278" key="GridCell.Tab.1.bottom" timestamp="1581512615474">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="278" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581502077800" />
-    <state width="1419" height="278" key="GridCell.Tab.1.center" timestamp="1581502077800">
+    <state width="1419" height="278" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1581512615474" />
+    <state width="1419" height="278" key="GridCell.Tab.1.center" timestamp="1581512615474">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="278" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1581502077800" />
-    <state width="1419" height="278" key="GridCell.Tab.1.left" timestamp="1581502077800">
+    <state width="1419" height="278" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1581512615474" />
+    <state width="1419" height="278" key="GridCell.Tab.1.left" timestamp="1581512615474">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="278" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1581502077800" />
-    <state width="1419" height="278" key="GridCell.Tab.1.right" timestamp="1581502077800">
+    <state width="1419" height="278" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1581512615474" />
+    <state width="1419" height="278" key="GridCell.Tab.1.right" timestamp="1581512615474">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1419" height="278" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1581502077800" />
+    <state width="1419" height="278" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1581512615474" />
     <state x="269" y="77" key="SettingsEditor" timestamp="1581483598772">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="269" y="77" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1581483598772" />
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1581482451112">
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1581568394823">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1581482451112" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1581568394823" />
     <state x="383" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1581485588029">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
